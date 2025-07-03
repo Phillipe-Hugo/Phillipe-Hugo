@@ -1,7 +1,7 @@
 
 💫 About Me:
 
-Developer Web<br>Front-end engineer<br>Senior Systems Analyst <br> investor 
+Developer Web<br>Front-end Engineer<br>Back-end Developer <br> Senior Systems Analyst<br> investor <br><br> https://phca.vercel.app
 
 
 ## 🌐 Socials:
